@@ -1,0 +1,7 @@
+# Gravações e logs gerados em campo
+*.mkv
+*.log
+lista_videos.txt
+20*-*_*/
+teste_gravacao/
+__pycache__/
